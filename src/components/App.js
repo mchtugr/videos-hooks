@@ -34,7 +34,6 @@ const App = () => {
 
   return (
     <div className='ui container' style={{ marginTop : '10px'} }>
-
       <SearchBar handleSubmit={handleSubmit}/>
       <div className='ui grid'>
         <div className='ui row'>
